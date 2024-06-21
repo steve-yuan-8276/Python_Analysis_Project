@@ -5,3 +5,5 @@ Python Projects List
 2. Orders Data analysis(ETL)
 
 3. Pymaceuticals with Matplotlib(Data Analysis and Visualization)
+
+4. Analysis of Baby Naming Trends in the US (1880-2023)
