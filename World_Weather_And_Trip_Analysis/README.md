@@ -5,8 +5,8 @@
 Using Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 
 API:
-![openweathermap](https://home.openweathermap.org/users/sign_up)
-![geoapify](https://myprojects.geoapify.com/register)
+[openweathermap](https://home.openweathermap.org/users/sign_up)
+[geoapify](https://myprojects.geoapify.com/register)
 
 
 ## Solution:
