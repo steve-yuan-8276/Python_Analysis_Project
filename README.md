@@ -4,6 +4,8 @@ This collection of projects showcases various data analysis and visualization ta
 
 ## Projects
 
+0. [Surfactant Stability Evaluation Analysis](https://github.com/steve-yuan-8276/Python_Analysis_Project/tree/main/0.%20Surfactant%20Stability%20Evaluation%20Analysis)
+
 1. [Pesticide Use in Agriculture](https://github.com/steve-yuan-8276/Python_Analysis_Project/tree/main/1.Pesticide%20Use%20in%20Agriculture)
 
 2. [Top 1000 Baby Names](https://github.com/steve-yuan-8276/Python_Analysis_Project/tree/main/2.Top_1000_Boby_names)
