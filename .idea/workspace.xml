@@ -5,40 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="091b0c16-ba8e-481e-b1a4-704e099de6fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cryptographic machine/Source/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptographic machine/cipher_machine.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptographic machine/outputs/decrypted_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptographic machine/outputs/encrypted_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Mean Value of Pesticide Usage Across The Different States in 2014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Mean Value of Pesticide Usage Across The Different States in 2015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Pesticide HIGH_ESTIMATE Usage Across The Different States in 2014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Pesticide HIGH_ESTIMATE Usage Across The Different States in 2015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Pesticide Usage in 2014-2015(filled map).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Pesticide Usage in All States in 2014(Box Plot).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Pesticide Usage in All States in 2015(Box Plot).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Pesticide Usage in the US (2014).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/The Different of Pesticide Usage Across Different States Between 2014 and 2015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Top 10 Pesticides Usage 2014-2015(filled map).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/outputs/Top 10 Pesticides in 2014-2015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/pesticide_in_us_analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/source/2014.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/source/2015.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/source/archive.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/source/cb_2014_us_county_500k.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/source/cb_2014_us_county_500k.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/source/cb_2014_us_county_500k.shp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/source/cb_2014_us_county_500k.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pesticide Use in Agriculture/source/dictionary.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Share_Bike_Analysis_Seaborn/Source/Bike-Sharing-Dataset.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Share_Bike_Analysis_Seaborn/Source/Bike-Sharing-Dataset/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Share_Bike_Analysis_Seaborn/Source/Bike-Sharing-Dataset/day.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Share_Bike_Analysis_Seaborn/Source/Bike-Sharing-Dataset/hour.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Share_Bike_Analysis_Seaborn/share_bike_Analysis_Seaborn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Data_Analysis_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data_Analysis_Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World_Weather_And_Trip_Analysis/WeatherPy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/World_Weather_And_Trip_Analysis/WeatherPy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
