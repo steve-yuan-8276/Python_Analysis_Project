@@ -1,50 +1,59 @@
-# Project_1
+# Surfactant Stability Evaluation Analysis
 
-Team Members: nicole navarijo, Jamey Yadon, Feng Yuan, Ryan Pope
+## Project Overview
 
-This biotechnology company needs to evaluate a new raw material to potentially be used it its emulsion solution. 
+This project aims to evaluate the stability of a new raw material used in surfactants for emulsion solutions. The analysis is based on real experimental data, with the goal of determining whether the new raw material can create a stable emulsion. This evaluation is crucial as the emulsion's stability directly impacts its effectiveness in growing and analyzing bacterial cells for potential future patient diagnostics.
 
-The emulsion solution is composite of water-based media broth micelles suspended in an oil solution. Each micell is used for growing and analyzing a bacterial cell with the hopes of diagnosing infections in future pateints.
+### Disclaimer
 
-The key part of the oil solution that is resposible for maintaining its micellular formation is called a surfactant.
+The data and results presented in this project are based on real experimental data but do not disclose specific company information for confidentiality reasons. This analysis is intended for educational and illustrative purposes only.
 
-The raw materials used to make the surfactant stongly impact how stable the emulsion will be. If the emulsion is weak, all of the micelles will collapse into one giant mass and be regarded as useless. 
+## Experimental Design
 
-This company needs to test a new raw material to see if it creates a stable emulsion. If it does indeed create a stable emulsion, then the company will move forward and purchase $30,000 of the new raw material. 
+### Background
 
-~~~~~~
+The emulsion solution consists of water-based media broth micelles suspended in an oil solution. These micelles are used to grow and analyze bacterial cells. The stability of these micelles, maintained by surfactants, is critical. If the emulsion is weak, the micelles will collapse into a single mass, rendering the solution ineffective.
 
+### Objective
 
-Experimental design:
+The goal is to test a new raw material to see if it can form a stable emulsion, in order to advance the next phase of experimental research.
 
+### Approach
 
-The approach to analyzing the stability of the emulsion is by using lung samples collected from humans because their heterogeneity puts alot of stress on the micells and it is highly indicative of what will happen in vivo.
-The goal is to stress the emulsion to a breaking point, and then analyze the degree of droplet coalescence in comparison to a control. 
+Lung samples collected from humans are used for testing because their heterogeneity stresses the micelles, simulating real-life conditions (in vivo). The goal is to stress the emulsion to its breaking point and analyze droplet coalescence compared to control surfactants.
 
-The surfactants made with the new raw material will be tested against two control surfactants:
-  -positive control: NK-R38 (target stability)
-  -negative control: NK-R84 (lower limit of instability, will not accept anything worse)
+### Controls and Test Surfactants
 
-The test surfactants are NK-102 and NK-104.
+- **Positive Control:** NK-R38 (target stability)
+- **Negative Control:** NK-R84 (lower limit of instability)
+- **Test Surfactants:** NK-102 and NK-104
 
+### Evaluation Metrics
 
-Metrics commonly used to evaluate surfactant stability are:
+1. **Doublets Formed:** Measures how many droplets coalesced from a singlet into a doublet.
+2. **Total Droplets:** A decrease in this number indicates droplet coalescence.
+3. **Fill Factor Final / Fill Factor Initial (FFF/FFI):** A value moving away from 1 indicates fewer droplets at the end than at the beginning, suggesting coalescence.
 
-  -doublets formed (measures how many drops coalesced from a singlet (1 drop) into a doublet (2 drops)
-  
-  -Total droplets (when this number drops, its also a sign that droplets coalesced, resulting in a fewer number of droplets)
-  
-  -Fill factor final/fill factor initial (when this number moves away from 1, its means there are fewer droplets observed at the end of the trial than were observed in the beginning of the trial, leading us to believe that they have coalesced) 
-~~~~~~
+### Ideal Surfactant Criteria
 
-For a perfect surfactant: 
+- Doublets should be zero in all samples.
+- FFF/FFI should equal 1 in all samples.
+- Each sample should have 25,000 total droplets.
+- The further a surfactant is from these goals, the weaker its stability.
 
-    doublets should be zero in all samples 
-    FFF/FFI should equal 1 in all samples 
-    Each circuit should have 25,000 total droplets in all samples 
-  
-The further a surfactant is away from the goal, the weaker the stability
+## Results
 
-    From the data we can see that NK-R84 is the furthest away from the goal in every criteria, meaning it has the weakest stability out of all surfactants tested
-    NK-R102 and NK-104 preform very close to NK-R38 (our best surfactant to date) and _____ actually performs a little better
-    Since Both 102 and 104 perform better than NK-R84 and very close to NK-R38, it means that the raw material used in the experimental surfactants is perfectly acceptable to purchase
+The data analysis shows:
+
+- **NK-R84** is the furthest from the stability goal, indicating the weakest stability.
+- **NK-R102** and **NK-R104** perform very close to **NK-R38** (the best surfactant to date), with some metrics even performing better.
+
+Given that both NK-R102 and NK-R104 outperform NK-R84 and are comparable to NK-R38, the new raw material used in the experimental surfactants is deemed acceptable.
+
+## Data Visualization and Analysis
+
+For detailed data visualization and analysis, refer to the Jupyter Notebook: [Data_Visualization_Analysis.ipynb](https://github.com/steve-yuan-8276/Python_Analysis_Project/blob/main/0.%20Surfactant%20Stability%20Evaluation%20Analysis/Codes/Data_Visualization_Analysis.ipynb)
+
+## Conclusion
+
+Analysis indicates that the new raw material is suitable for surfactants, with stability comparable to the current best surfactant NK-R38. Successful evaluation suggests proceeding to the next stage of research.
