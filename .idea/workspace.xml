@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="091b0c16-ba8e-481e-b1a4-704e099de6fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Codes/CODE FINAL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Codes/Data_Visualization_Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Codes/JameysCharts.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Codes/compiled_results.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Docs/Surfactant Study FINAL.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Docs/Surfactant Study.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Docs/compiled_results.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Docs/~$Final_summary_stats.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Figures/Average Fill Factor Ratio for Four Surfactants.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Figures/The Bar Plot of Average Doublets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Figures/The Bar Plot of Fill Factor Score.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Figures/The Bar Plot of Total Droplets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Figures/The Bar Plot of mean_doublets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Output_Figures/The Bar Plot of mean_total_droplets(Starts with 15000).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Presentations/Case study.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Presentations/~$Case study.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0. Surfactant 0.Stability Evaluation Analysis/Source_Data/sample_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0. Surfactant Stability Evaluation Analysis/Presentations/Case study.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Share_Bike_Analysis_Seaborn/share_bike_Analysis_Seaborn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Share_Bike_Analysis_Seaborn/share_bike_Analysis_Seaborn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0. Surfactant Stability Evaluation Analysis/Codes/Data_Visualization_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/0. Surfactant Stability Evaluation Analysis/Codes/Data_Visualization_Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0. Surfactant Stability Evaluation Analysis/Presentations/Case study.pptx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
