@@ -1,90 +1,87 @@
-# About Project
+# PyCitySchools Analysis Project
 
-Using Pandas and Jupyter Notebook, create a report that includes the following data. 
+This project analyzes key metrics for a school district using data processing and visualization techniques in Pandas and Jupyter Notebook. The aim is to provide a comprehensive report on the district's performance, including metrics for individual schools.
 
-## District Summary
+## Project Overview
 
-Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
+Using data from the PyCitySchools dataset, this project performs various calculations and visualizations to create a high-level snapshot of the school district's performance. The analysis includes overall district metrics, individual school performance, and comparisons based on different categories.
 
-Include the following:
+## Key Features
 
-Total number of unique schools
+### District Summary
 
-Total students
+1. **Total Number of Unique Schools**
+2. **Total Students**
+3. **Total Budget**
+4. **Average Math Score**
+5. **Average Reading Score**
+6. **% Passing Math** (percentage of students who passed math)
+7. **% Passing Reading** (percentage of students who passed reading)
+8. **% Overall Passing** (percentage of students who passed both math and reading)
 
-Total budget
+### School Summary
 
-Average math score
+1. **School Name**
+2. **School Type**
+3. **Total Students**
+4. **Total School Budget**
+5. **Per Student Budget**
+6. **Average Math Score**
+7. **Average Reading Score**
+8. **% Passing Math** (percentage of students who passed math)
+9. **% Passing Reading** (percentage of students who passed reading)
+10. **% Overall Passing** (percentage of students who passed both math and reading)
 
-Average reading score
+### Performance Analysis
 
-% passing math (the percentage of students who passed math)
+1. **Top Schools:** Sort by % Overall Passing in descending order and display the top 5 rows.
+2. **Bottom Schools:** Sort by % Overall Passing in ascending order and display the top 5 rows.
+3. **Average Math Scores by Grade:** List the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+4. **Average Reading Scores by Grade:** List the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-% passing reading (the percentage of students who passed reading)
+### Spending Analysis
 
-% overall passing (the percentage of students who passed math AND reading)
+1. **Spending Ranges:** Create a table that breaks down school performance based on average spending ranges (per student).
 
-## School Summary
+### Size Analysis
 
-Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
+1. **School Size:** Use `pd.cut` to bin data by school sizes and calculate averages.
+2. **Size Summary:** Create a DataFrame using the binned and averaged size data.
 
-Include the following:
+### School Type Analysis
 
-School name
+1. **School Type:** Group the `per_school_summary` DataFrame by "School Type" and average the results.
+2. **Type Summary:** Create a new DataFrame using the new column data.
 
-School type
+## Usage
 
-Total students
+To use this project, follow these steps:
 
-Total school budget
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/steve-yuan-8276/Python_Analysis_Project.git
+   ```
 
-Per student budget
+2. Navigate to the project directory:
+   ```bash
+   cd Python_Analysis_Project/PyCitySchools
+   ```
 
-Average math score
+3. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook PyCitySchools_solution.ipynb
+   ```
 
-Average reading score
+4. Run the cells in the notebook to perform the analysis and generate the required visualizations.
 
-% passing math (the percentage of students who passed math)
+## Solution
 
-% passing reading (the percentage of students who passed reading)
+The complete analysis and visualizations are provided in the Jupyter Notebook [PyCitySchools_solution.ipynb](https://github.com/steve-yuan-8276/Python_Analysis_Project/blob/main/PyCitySchools/PyCitySchools_solution.ipynb).
 
-% overall passing (the percentage of students who passed math AND reading)
+## Conclusion
 
-## Highest-Performing Schools (by % Overall Passing)
+This project provides a detailed analysis of the school district's performance using various metrics and visualizations. By examining the data through different lenses, we can draw meaningful insights into the effectiveness of schools and their spending patterns.
 
-Sort the schools by % Overall Passing in descending order and display the top 5 rows.
+For more details, refer to the [notebook](https://github.com/steve-yuan-8276/Python_Analysis_Project/blob/main/PyCitySchools/PyCitySchools_solution.ipynb).
 
-Save the results in a DataFrame called "top_schools".
-
-## Lowest-Performing Schools (by % Overall Passing)
-
-Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
-
-Save the results in a DataFrame called "bottom_schools".
-
-## Math Scores by Grade
-
-Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-
-## Reading Scores by Grade
-
-Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-
-## Scores by School Spending
-
-Create a table that breaks down school performance based on average spending ranges (per student).
-
-Use the code provided below to create four bins with reasonable cutoff values to group school spending.
-
-## Scores by School Size (5 points)
-Use pd.cut with the provided code to bin the data by the school sizes 
-Use the code provided to calculate the averages.
-
-Create the size_summary DataFrame using the binned and averaged size data.
-
-## Scores by School Type (5 points)
-Group the per_school_summary DataFrame by "School Type" and average the results. 
-
-Use the code provided to select the new column data.
-
-Create a new DataFrame called type_summary that uses the new column data. 
+Thank you for your interest in this analysis!
