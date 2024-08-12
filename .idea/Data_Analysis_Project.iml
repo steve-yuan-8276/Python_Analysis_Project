@@ -5,5 +5,10 @@
     <orderEntry type="jdk" jdkName="$USER_HOME$/anaconda3/envs/python312" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Project_1" />
+    <orderEntry type="module" module-name="machine_learning" />
+    <orderEntry type="module" module-name="10-Advanced-SQL" />
+    <orderEntry type="module" module-name="sql-challenge" />
+    <orderEntry type="module" module-name="table_format" />
+    <orderEntry type="module" module-name="SQL_Projects" />
   </component>
 </module>

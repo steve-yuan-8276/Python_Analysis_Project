@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="091b0c16-ba8e-481e-b1a4-704e099de6fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0. Surfactant Stability Evaluation Analysis/Presentations/Case study.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Data_Analysis_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data_Analysis_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0. Surfactant Stability Evaluation Analysis/Codes/Data_Visualization_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/0. Surfactant Stability Evaluation Analysis/Codes/Data_Visualization_Analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0. Surfactant Stability Evaluation Analysis/Presentations/Case study.pptx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -37,7 +37,7 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="SharedIndexes">
@@ -50,5 +50,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/steveyuan/Documents/github_files/Machine_Learning_Projects/Austin _housing_Price/austin_housing_price_prediction.ipynb</url>
+          <line>607</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

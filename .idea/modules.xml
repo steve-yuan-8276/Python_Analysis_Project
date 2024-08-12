@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Library/CloudStorage/Dropbox/Data Analysis Class_2023/UT Analysis Projects/10-Advanced-SQL/.idea/10-Advanced-SQL.iml" filepath="$USER_HOME$/Library/CloudStorage/Dropbox/Data Analysis Class_2023/UT Analysis Projects/10-Advanced-SQL/.idea/10-Advanced-SQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Data_Analysis_Project.iml" filepath="$PROJECT_DIR$/.idea/Data_Analysis_Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Project_1/.idea/Project_1.iml" filepath="$PROJECT_DIR$/../Project_1/.idea/Project_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SQL_Projects/.idea/SQL_Projects.iml" filepath="$PROJECT_DIR$/../SQL_Projects/.idea/SQL_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Machine_Learning_Projects/.idea/machine_learning.iml" filepath="$PROJECT_DIR$/../Machine_Learning_Projects/.idea/machine_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sql-challenge/.idea/sql-challenge.iml" filepath="$PROJECT_DIR$/../sql-challenge/.idea/sql-challenge.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/table_format/.idea/table_format.iml" filepath="$USER_HOME$/Desktop/table_format/.idea/table_format.iml" />
     </modules>
   </component>
 </project>
